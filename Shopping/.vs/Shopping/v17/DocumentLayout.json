@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\GitHub\\DockerK8sAksDevOps2\\Shopping\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60A29CBC-3191-4E62-BCF1-877565D192EA}|Shopping.Client\\Shopping.Client.csproj|c:\\users\\admin\\documents\\github\\dockerk8saksdevops2\\shopping\\shopping.client\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A29CBC-3191-4E62-BCF1-877565D192EA}|Shopping.Client\\Shopping.Client.csproj|solutionrelative:shopping.client\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A29CBC-3191-4E62-BCF1-877565D192EA}|Shopping.Client\\Shopping.Client.csproj|c:\\users\\admin\\documents\\github\\dockerk8saksdevops2\\shopping\\shopping.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A29CBC-3191-4E62-BCF1-877565D192EA}|Shopping.Client\\Shopping.Client.csproj|solutionrelative:shopping.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EDFB8F-6E64-4B97-948C-FF39730BB6DE}|Shopping.API\\Shopping.API.csproj|c:\\users\\admin\\documents\\github\\dockerk8saksdevops2\\shopping\\shopping.api\\controllers\\roductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89EDFB8F-6E64-4B97-948C-FF39730BB6DE}|Shopping.API\\Shopping.API.csproj|solutionrelative:shopping.api\\controllers\\roductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A29CBC-3191-4E62-BCF1-877565D192EA}|Shopping.Client\\Shopping.Client.csproj|c:\\users\\admin\\documents\\github\\dockerk8saksdevops2\\shopping\\shopping.client\\shopping.client.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{60A29CBC-3191-4E62-BCF1-877565D192EA}|Shopping.Client\\Shopping.Client.csproj|solutionrelative:shopping.client\\shopping.client.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EDFB8F-6E64-4B97-948C-FF39730BB6DE}|Shopping.API\\Shopping.API.csproj|c:\\users\\admin\\documents\\github\\dockerk8saksdevops2\\shopping\\shopping.api\\data\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89EDFB8F-6E64-4B97-948C-FF39730BB6DE}|Shopping.API\\Shopping.API.csproj|solutionrelative:shopping.api\\data\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EDFB8F-6E64-4B97-948C-FF39730BB6DE}|Shopping.API\\Shopping.API.csproj|c:\\users\\admin\\documents\\github\\dockerk8saksdevops2\\shopping\\shopping.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89EDFB8F-6E64-4B97-948C-FF39730BB6DE}|Shopping.API\\Shopping.API.csproj|solutionrelative:shopping.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EDFB8F-6E64-4B97-948C-FF39730BB6DE}|Shopping.API\\Shopping.API.csproj|c:\\users\\admin\\documents\\github\\dockerk8saksdevops2\\shopping\\shopping.api\\shopping.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{89EDFB8F-6E64-4B97-948C-FF39730BB6DE}|Shopping.API\\Shopping.API.csproj|solutionrelative:shopping.api\\shopping.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EDFB8F-6E64-4B97-948C-FF39730BB6DE}|Shopping.API\\Shopping.API.csproj|c:\\users\\admin\\documents\\github\\dockerk8saksdevops2\\shopping\\shopping.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89EDFB8F-6E64-4B97-948C-FF39730BB6DE}|Shopping.API\\Shopping.API.csproj|solutionrelative:shopping.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A29CBC-3191-4E62-BCF1-877565D192EA}|Shopping.Client\\Shopping.Client.csproj|c:\\users\\admin\\documents\\github\\dockerk8saksdevops2\\shopping\\shopping.client\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{60A29CBC-3191-4E62-BCF1-877565D192EA}|Shopping.Client\\Shopping.Client.csproj|solutionrelative:shopping.client\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A29CBC-3191-4E62-BCF1-877565D192EA}|Shopping.Client\\Shopping.Client.csproj|c:\\users\\admin\\documents\\github\\dockerk8saksdevops2\\shopping\\shopping.client\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60A29CBC-3191-4E62-BCF1-877565D192EA}|Shopping.Client\\Shopping.Client.csproj|solutionrelative:shopping.client\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A29CBC-3191-4E62-BCF1-877565D192EA}|Shopping.Client\\Shopping.Client.csproj|c:\\users\\admin\\documents\\github\\dockerk8saksdevops2\\shopping\\shopping.client\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A29CBC-3191-4E62-BCF1-877565D192EA}|Shopping.Client\\Shopping.Client.csproj|solutionrelative:shopping.client\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\DockerK8sAksDevOps2\\Shopping\\Shopping.Client\\Program.cs",
+              "RelativeDocumentMoniker": "Shopping.Client\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\DockerK8sAksDevOps2\\Shopping\\Shopping.Client\\Program.cs",
+              "RelativeToolTip": "Shopping.Client\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T15:46:50.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\DockerK8sAksDevOps2\\Shopping\\Shopping.API\\Data\\ProductContext.cs",
+              "RelativeDocumentMoniker": "Shopping.API\\Data\\ProductContext.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\DockerK8sAksDevOps2\\Shopping\\Shopping.API\\Data\\ProductContext.cs",
+              "RelativeToolTip": "Shopping.API\\Data\\ProductContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T15:40:19.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "roductController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\DockerK8sAksDevOps2\\Shopping\\Shopping.API\\Controllers\\roductController.cs",
+              "RelativeDocumentMoniker": "Shopping.API\\Controllers\\roductController.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\DockerK8sAksDevOps2\\Shopping\\Shopping.API\\Controllers\\roductController.cs",
+              "RelativeToolTip": "Shopping.API\\Controllers\\roductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T15:34:55.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\DockerK8sAksDevOps2\\Shopping\\Shopping.API\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Shopping.API\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\DockerK8sAksDevOps2\\Shopping\\Shopping.API\\Models\\Product.cs",
+              "RelativeToolTip": "Shopping.API\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T15:34:36.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\DockerK8sAksDevOps2\\Shopping\\Shopping.API\\Program.cs",
+              "RelativeDocumentMoniker": "Shopping.API\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\DockerK8sAksDevOps2\\Shopping\\Shopping.API\\Program.cs",
+              "RelativeToolTip": "Shopping.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T15:32:06.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Shopping.API.http",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\DockerK8sAksDevOps2\\Shopping\\Shopping.API\\Shopping.API.http",
+              "RelativeDocumentMoniker": "Shopping.API\\Shopping.API.http",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\DockerK8sAksDevOps2\\Shopping\\Shopping.API\\Shopping.API.http",
+              "RelativeToolTip": "Shopping.API\\Shopping.API.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-23T15:32:05.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\DockerK8sAksDevOps2\\Shopping\\Shopping.Client\\Dockerfile",
+              "RelativeDocumentMoniker": "Shopping.Client\\Dockerfile",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\DockerK8sAksDevOps2\\Shopping\\Shopping.Client\\Dockerfile",
+              "RelativeToolTip": "Shopping.Client\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-23T15:14:39.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\DockerK8sAksDevOps2\\Shopping\\Shopping.Client\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Shopping.Client\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\DockerK8sAksDevOps2\\Shopping\\Shopping.Client\\Models\\Product.cs",
+              "RelativeToolTip": "Shopping.Client\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T15:07:49.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\DockerK8sAksDevOps2\\Shopping\\Shopping.Client\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Shopping.Client\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\DockerK8sAksDevOps2\\Shopping\\Shopping.Client\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Shopping.Client\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAADwvyYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T15:04:15.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\DockerK8sAksDevOps2\\Shopping\\Shopping.Client\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Shopping.Client\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\DockerK8sAksDevOps2\\Shopping\\Shopping.Client\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Shopping.Client\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T04:55:28.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shopping.Client",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\DockerK8sAksDevOps2\\Shopping\\Shopping.Client\\Shopping.Client.csproj",
+              "RelativeDocumentMoniker": "Shopping.Client\\Shopping.Client.csproj",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\DockerK8sAksDevOps2\\Shopping\\Shopping.Client\\Shopping.Client.csproj",
+              "RelativeToolTip": "Shopping.Client\\Shopping.Client.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-23T04:50:54.743Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
